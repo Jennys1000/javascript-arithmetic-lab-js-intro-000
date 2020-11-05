@@ -1,19 +1,18 @@
 function add (a, b) {
-number = a + b
-return number
+return a + b
 }
 function subtract (a, b) {
-  number = a - b
-  return number
+  return a - b
+  
 }
 function multiply (a, b) {
-number = a * b
-return number
+return a * b
+
 }
 
 function divide (a, b) {
-number = a / b
-return number
+return a / b
+
 }
 
 function increment(a) {
@@ -21,12 +20,13 @@ function increment(a) {
 }
 
 function decrement(a) {
-  a -= 1
-  return a
-}
+   return a -= 1
+  }
+  
 function makeInt(a) {
 return parseInt(a, 10)
 }
+
 function preserveDecimal(a) {
 return parseFloat(a)
   }
