@@ -17,8 +17,7 @@ return number
 }
 
 function increment(a) {
-   a += 1
-  return a
+    return a += 1
 }
 
 function decrement(a) {
