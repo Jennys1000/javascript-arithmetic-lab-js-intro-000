@@ -25,3 +25,7 @@ function decrement(a) {
   a -= 1
   return a
 }
+function makeInt(string) {
+  parseInt( 'a', 10)
+  return pareInt
+}
