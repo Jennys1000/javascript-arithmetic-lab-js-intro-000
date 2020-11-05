@@ -26,6 +26,6 @@ function decrement(a) {
   return a
 }
 function makeInt(a) {
-   number =parseInt( a , 10)
+   number = parseInt(a, 10)
   return number
 }
