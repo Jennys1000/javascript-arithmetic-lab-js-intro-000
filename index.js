@@ -3,7 +3,7 @@ return a + b
 }
 function subtract (a, b) {
   return a - b
-  
+
 }
 function multiply (a, b) {
 return a * b
@@ -22,7 +22,7 @@ function increment(a) {
 function decrement(a) {
    return a -= 1
   }
-  
+
 function makeInt(a) {
 return parseInt(a, 10)
 }
